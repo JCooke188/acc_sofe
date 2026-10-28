@@ -15,6 +15,6 @@ This repository contains the necessary scripts and notebooks to gather Argo prof
 
 ### Required modules
 
-'''bash
+```bash
 pip install argopy numpy xarray matplotlib
-'''
+```
